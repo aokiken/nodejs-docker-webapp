@@ -4,5 +4,8 @@
   "description": "Node.js on Docker",
   "main": "index.js",
   "author": "aokiken <aokiken@me.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
