@@ -1,6 +1,7 @@
 {
   "name": "nodejs-docker-webapp",
   "version": "1.0.0",
+  "description": "Node.js on Docker",
   "main": "index.js",
   "author": "aokiken <aokiken@me.com>",
   "license": "MIT"
